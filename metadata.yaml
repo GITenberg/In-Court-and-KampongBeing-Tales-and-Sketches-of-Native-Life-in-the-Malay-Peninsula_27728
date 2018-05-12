@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32870'
     url: http://www.gutenberg.org/2009/agents/32870
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27728#In-Court-and-KampongBeing-Tales-and-Sketches-of-Native-Life-in-the-Malay-Peninsula
 gutenberg_issued: '2009-01-07'
 gutenberg_type: Text
 identifiers:
